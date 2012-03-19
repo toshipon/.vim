@@ -1,10 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/toshipon/Public/dev/workspace/facebook/facebook-js-sdk/src/core'
-let g:netrw_dirhist_2='/Users/toshipon/Public/dev/workspace/facebook/facebook-js-sdk/examples'
-let g:netrw_dirhist_3='/Users/toshipon/Public/dev/workspace/facebook/facebook-js-sdk/examples/jquery'
-let g:netrw_dirhist_4='/Users/toshipon/Public/dev/workspace/facebook/facebook-js-sdk/src/core'
-let g:netrw_dirhist_5='/Users/toshipon/Public/dev/workspace/rails/travelgift/app/views/layouts'
-let g:netrw_dirhist_6='/Users/toshipon/Downloads/addyosmani-jquery-ui-bootstrap-cf2a77b/css'
-let g:netrw_dirhist_7='/Users/toshipon/Downloads/addyosmani-jquery-ui-bootstrap-cf2a77b'
-let g:netrw_dirhist_8='/Users/toshipon/Public/dev/workspace/rails/20111128_ajax_on_rails/app/controllers'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/toshipon/Public/dev/workspace/rails/travelgift/.git'
+let g:netrw_dirhist_2='/Users/toshipon/Public/dev/workspace/rails/travelgift'
+let g:netrw_dirhist_3='/Users/toshipon/Public/dev/workspace/rails/travelgift/app/views/hotels'
+let g:netrw_dirhist_4='/Users/toshipon/Public/dev/workspace/rails/travelgift/app/views/homes'
+let g:netrw_dirhist_5='/Users/toshipon/Public/dev/workspace/rails/ATND-Grouping/app/views/layouts'
+let g:netrw_dirhist_6='/Users/toshipon/Public/dev/workspace/rails/ATND-Grouping/app/views/groupings'
