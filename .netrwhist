@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/toshipon/Public/dev/workspace/rails/travelgift/.git'
 let g:netrw_dirhist_2='/Users/toshipon/Public/dev/workspace/rails/travelgift'
 let g:netrw_dirhist_3='/Users/toshipon/Public/dev/workspace/rails/travelgift/app/views/hotels'
 let g:netrw_dirhist_4='/Users/toshipon/Public/dev/workspace/rails/travelgift/app/views/homes'
 let g:netrw_dirhist_5='/Users/toshipon/Public/dev/workspace/rails/ATND-Grouping/app/views/layouts'
 let g:netrw_dirhist_6='/Users/toshipon/Public/dev/workspace/rails/ATND-Grouping/app/views/groupings'
+let g:netrw_dirhist_7='/Users/toshipon/.vim'
